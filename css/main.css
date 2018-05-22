@@ -22,6 +22,11 @@
   color: #777777;
   font-weight: 300;
 }
+:logo{
+	width:70px;
+	
+}
+
 
 :-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */

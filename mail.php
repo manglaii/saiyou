@@ -1,9 +1,9 @@
 <?php
-    $to = 'demo@spondonit.com';
-    $firstname = $_POST["fname"];
-    $email= $_POST["email"];
-    $text= $_POST["message"];
-    $phone= $_POST["phone"];
+    $to = 'manglaimlg@gmail.com';
+    $firstname = $_POST["姓名"];
+    $email= $_POST["邮件"];
+    $text= $_POST["留言"];
+    $phone= $_POST["手机"];
     
 
 
